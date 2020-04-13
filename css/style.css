@@ -51,11 +51,12 @@ img:hover {
 }
 
 .small {
-  wi
+  width: 100%;
+  
 }
 
 .med {
-  
+  width: 200%;
 }
 
 .large {
