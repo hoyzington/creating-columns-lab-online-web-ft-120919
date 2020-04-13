@@ -12,7 +12,6 @@ body, html {
   width: 80%;
   max-width: 600px;
   min-width: 400px;
-  /*max-height: 600px;*/
   padding: 10px;
   margin: 10px auto;
 }
@@ -48,6 +47,7 @@ img:hover {
 }
 
 .column {
+  margin: 0, auto;
   display: inline-block;
   width: 32%;
 }
